@@ -72,7 +72,7 @@ jobs:
           export REPO=prasanth595
 
           # Run the Bash script
-          bash build-all.sh REPO=prasanth595
+          make build REPO=prasanth595
 
 
 
