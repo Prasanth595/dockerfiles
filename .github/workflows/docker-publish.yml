@@ -72,7 +72,7 @@ jobs:
           export REPO=prasanth595
 
           # Run the Bash script
-          make build REGISTRY=prasanth595
+          make build --REGISTRY=prasanth595
 
 
 
